@@ -15,7 +15,8 @@ This project demonstrates the use of the **IP-Adapter FaceID** model in conjunct
 ---
 
 ## Output
-![image](https://github.com/user-attachments/assets/b6e322aa-cb69-4bb2-992a-403b6b42266e)
+![image](https://github.com/user-attachments/assets/a5187095-b735-40c1-bf6e-bce60a781140)
+
 
 
 ## Setup
